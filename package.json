@@ -1,0 +1,20 @@
+{
+  "name": "drjs-bar-chart",
+  "version": "1.0.0",
+  "description": "D3.js Interactive Bar Chart",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valeriogiocondi/d3js-interactive-bar-chart.git"
+  },
+  "author": "Valerio Giocondi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valeriogiocondi/d3js-interactive-bar-chart/issues"
+  },
+  "homepage": "https://github.com/valeriogiocondi/d3js-interactive-bar-chart#readme"
+}
